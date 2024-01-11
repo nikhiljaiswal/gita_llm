@@ -1,0 +1,1584 @@
+safety messages
+your safety and the safety of others are very important.
+we have provided many important safety messages in this manual and on your appliance. always read and follow all safety messages.
+this is the safety alert symbol.
+this symbol alerts you to potential hazards that can kill or injure you and others. all safety messages will follow the safety alert symbol and either the word warning or caution.
+these words mean:
+warning
+you may be killed or seriously injured if you do not follow instructions.
+caution
+you may be injured or cause damage to the product if you do not follow instructions.
+all safety messages will tell you what the potential hazard is, tell you how to reduce the chance of injury, and tell you what may happen if the instructions are not followed.
+
+installation
+adhere to all industry recommended safety procedures including the use of long-sleeved gloves and safety glasses.
+never attempt to operate this appliance if it is damaged, malfunctioning, partially disassembled, or has missing or broken parts, including a damaged cord or plug.
+before use, the appliance must be properly installed as described in this manual.
+to reduce the risk of severe injury or death, follow all installation instructions.
+refer to the installation instructions for detailed grounding procedures. installation instructions are packed with the appliance for the installer’s reference. if the appliance is moved to a new location, have it checked and reinstalled by qualified service personnel.
+moving or installation of the appliance requires two or more people.
+do not install the appliance in humid spaces.
+store and install the appliance where it will not be exposed to temperatures below freezing or exposed to outdoor weather conditions.
+this appliance is not designed for maritime use or for mobile installations such as in rvs, trailers, or aircraft.
+keep packing materials out of the reach of children. packaging material can be dangerous for children. there is a risk of suffocation.
+destroy the carton, plastic bag, and other packing materials after the appliance is unpacked. children might use them for play. cartons covered with rugs, bedspreads, or plastic sheets can become airtight chambers.
+the appliance must be installed and electrically grounded by qualified service personnel in accordance with local codes.
+when installing or moving the appliance, be careful not to pinch, crush, or damage the power cord.
+connect to a properly rated, protected, and sized power circuit to avoid electrical overload.
+this appliance must be positioned near to an electrical power supply.
+disconnect the power cord, house fuse or circuit breaker before installing or servicing the appliance.
+the power cord of this appliance is equipped with a 3-prong (grounding) plug which mates with a standard 3-prong (grounding) wall outlet to minimize the possibility of electric shock from this appliance.
+do not, under any circumstances, cut or remove the third (ground) prong from the power cord.
+use new hoses when connecting the washer to the water supply. do not reuse old hoses.
+
+operation
+read all instructions before using the appliance and save these instructions.
+use this appliance only for its intended purpose.
+if the product has been submerged in water, sitting in standing water, or waterlogged, do not come in contact with the product and immediately contact an lg electronics customer information center for instructions before resuming use.
+if you detect a strange sound, a chemical or burning smell, or smoke coming from the appliance, unplug it immediately, and contact an lg electronics customer information center.
+under certain conditions, hydrogen gas may be produced in a hot-water system that has not been used for two weeks or more. hydrogen gas is explosive. if the hot-water system has not been used for such a period, before using the appliance, turn on all hot water faucets and let the water flow from each for several minutes. this will release any accumulated hydrogen gas. as the gas is flammable, do not smoke or use an open flame during this time.
+do not reach into the washer if the tub or drum, agitator, or any interior parts are moving. before loading, unloading, or adding items, press start/pause and allow the tub or drum to coast to a complete stop before reaching inside.
+this appliance is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning the use of the appliance by a person responsible for their safety.
+do not allow children or pets to play on, in or with the appliance. close supervision is necessary when the appliance is used near children or pets.
+keep laundry products out of children’s reach. to prevent injury to persons, observe all warnings on product labels.
+repair or immediately replace all power cords that have become frayed or otherwise damaged. do not use a cord that shows cracks or abrasion damage along its length or at either end.
+never unplug the appliance by pulling on the power cord. always grip the plug firmly and pull straight out from the outlet.
+do not use an extension cord or adapter with this appliance.
+do not grasp the power cord or touch the appliance controls with wet hands.
+do not modify or extend the power cord.
+if the electrical supply cord is damaged, it must only be replaced by the manufacturer or its service agent or a similar qualified person in order to avoid a hazard.
+do not put oily or greasy clothing, candles or flammable materials on top of the appliance.
+keep the area underneath and around your appliances free of combustible materials (lint, paper, rags, etc.), gasoline, chemicals and other flammable vapors and liquids.
+do not store or use gasoline or other flammable vapors and liquids in the vicinity of this or any other appliance.
+do not mix chlorine bleach with ammonia or acids such as vinegar. follow package directions when using laundry products. incorrect usage can produce poisonous gas, resulting in serious injury or death.
+never use harsh chemicals, abrasive cleaners, or solvents to clean the washer. they will damage the finish.
+do not wash laundry that has been previously cleaned in, washed in, soaked in, or spotted with gasoline, dry-cleaning solvents, vegetable or cooking oil, or other flammable or explosive substances, as they give off vapors that could ignite or explode.
+do not add gasoline, dry cleaning solvents, or other flammable or explosive substances to the wash water. these substances give off vapors that could ignite or explode.
+in the event of a gas leak (propane gas, lp gas, etc.), do not operate this or any other appliance. open a window or door to ventilate the area immediately.
+do not tamper with controls.
+fix the drain hose securely in place to avoid flooding.
+do not abuse, sit on, or stand on the door of the appliance.
+always check the inside of the appliance for foreign objects.
+do not allow water, bleach or other liquids to sit in the drum for extended periods. doing so can corrode the drum or cause mildew or odors.
+do not dry unwashed items in the appliance.
+
+maintenance
+do not repair or replace any part of the appliance. all repairs and servicing must be performed by qualified service personnel unless specifically recommended in this owner’s manual. use only authorized factory parts.
+disconnect this appliance from the power supply before cleaning and attempting any user maintenance. turning the controls to the off position does not disconnect this appliance from the power supply.
+remove any dust or foreign matter from the power plug pins.
+do not disassemble or repair the appliance by yourself.
+remove the door before the appliance is removed from service or discarded to avoid the danger of children or small animals getting trapped inside.
+make sure the dispenser drawer or lid is closed at all times when not being filled with laundry products.
+
+grounding instructions
+improper connection of the equipment-grounding conductor can result in a risk of electric shock. check with a qualified electrician or service personnel if you are in doubt whether the appliance is properly grounded. do not modify the plug provided with the appliance; if it will not fit the outlet, have a proper outlet installed by a qualified electrician.
+the appliance must be grounded. in the event of a malfunction or breakdown, grounding will reduce the risk of electric shock by providing a path of least resistance for electric current. the appliance is equipped with a cord having an equipment-grounding conductor and a grounding plug. the plug must be plugged into an appropriate outlet that is installed and grounded in accordance with all local codes and ordinances.
+
+installation
+install the product on a firm and level floor.
+
+operation
+do not place objects on top of the appliance.
+turn off the water faucets and unplug the appliance if the appliance is to be left for an extended period of time, such as during vacations.
+always follow the fabric care instructions supplied by the garment manufacturer.
+use fabric softeners or products to eliminate static only as recommended by the manufacturer.
+do not combine laundry products for use in one load unless specified on the label.
+do not touch draining water which may be hot.
+if the drain hose and the water inlet hose are frozen in winter, defrost them before using the appliance.
+do not store or spill liquid detergents, cleaners, or bleaches (chlorine bleach, oxygen bleach) on the appliance. doing so may result in corrosion, discoloration or damage to the surface of the appliance.
+clothing or articles that are waterproof or water-resistant must be washed in the waterproof, bedding, bulky/large, or jumbo wash cycle only. (examples include water resistant clothing, mattress covers, outdoor clothes, and plastic mats.) failure to do so may result in personal injury or damage to the washer, clothes, walls, floor, and surrounding objects due to abnormal vibration.
+
+front view
+control panel
+detergent dispenser drawer
+drum
+door
+door seal
+drain pump filter cover
+leveling feet
+drain hose
+drain pump filter
+
+rear view
+water inlets
+shipping bolts
+power cord
+drain hose
+
+accessories
+included accessories
+non-skid pads
+hole caps
+wrench
+tie strap
+elbow bracket (for securing drain hose)
+required accessories (sold separately)
+hot and cold water hoses
+
+product specifications
+model
+wm1455h*a
+electrical requirements
+120 v~, 60 hz
+min. / max. water pressure
+20 psi - 120 psi (138 kpa - 827 kpa)
+dimensions (width x height x depth)
+24'' x 33 1/2'' x 22 1/4'' (60 cm x 85 cm x 56.5 cm)
+maximum depth with door open
+43 1/4'' (110 cm)
+net weight
+154.3 lb (70 kg)
+max. spin speed
+1400 rpm
+
+installation overview
+please read the following installation instructions first after purchasing this washer or transporting it to another location.
+choosing the proper location
+unpacking and removing shipping material
+connecting the inlet hoses
+connecting the drain hose
+leveling the washer
+final installation check
+warning
+moving or installation of the appliance requires two or more people. failure to follow these instructions may result in injury.
+store and install the appliance where it will not be exposed to temperatures below freezing or exposed to outdoor weather conditions. failure to follow this warning can cause product or part failure, serious injury, fire, electric shock, or death.
+properly ground the washer to conform with all governing codes and ordinances. failure to follow this warning can cause serious injury, fire, electric shock, or death.
+to ensure proper airflow, do not block the large opening on the bottom of the washer with carpeting or other materials.
+do not remove the ground prong from the power cord. do not use an adapter or extension cord. plug into a grounded 3-prong outlet. failure to follow this warning can cause serious injury, fire, electric shock, or death.
+certain internal parts are intentionally not grounded and may present a risk of electric shock only during servicing. service personnel- do not contact the following parts while the appliance is energized: pump, valve, motor, control board.
+
+tools needed
+pliers
+flat-blade screwdriver
+level
+
+power outlet
+the power outlet must be within 60 inches (1.5 m) of either side of the washer.
+position the washer so that the outlet and plug are easily accessible.
+do not overload the outlet with more than one appliance.
+the outlet must be grounded in accordance with current electrical wiring codes and regulations.
+use a time-delay fuse or circuit breaker.
+it is the personal responsibility and obligation of the washer owner to have a proper outlet installed by a qualified electrician.
+
+flooring
+to minimize noise and vibration, install the washer on a level, solidly constructed floor capable of supporting the washer without flexing or bouncing.
+the washer must be installed on firm flooring to minimize vibration during the spin cycle. concrete flooring is best, but a wood floor is sufficient, provided it is built to fha standards.
+the floor under the washer must not slope more than 1 inch (2.5 cm) from front to back or side to side.
+installing on carpeting and soft tile surfaces is not recommended.
+never install the washer on a platform or weakly supported structure.
+floor installation
+to ensure sufficient clearance for water inlet hoses, drain hose and airflow, allow minimum clearances of at least 1 inch (2.5 cm) at the sides and 4 inches (10 cm) behind the washer. be sure to allow for wall, door, or floor moldings that may increase the required clearances.
+dimensions and clearances
+a
+21'' (53 cm)
+b
+43 1/4'' (110 cm)
+c
+22 1/4'' (56.5 cm)
+d
+4'' (10 cm)
+e
+1'' (2.5 cm)
+f
+24'' (60 cm)
+g
+1/4'' (0.5 cm)
+
+unpacking shipping material
+*some models do not ship with drum support.
+lift the washer off the foam base.
+after removing the carton and shipping material, lift the washer off the foam base.
+make sure the plastic drum support a* comes off with the base and is not stuck to the bottom of the washer.
+if you must lay the washer down to remove the carton base b, always protect the side of the washer and lay it carefully on its side. do not lay the washer on its front or back.
+removing shipping material
+remove the bolt assemblies.
+starting with the bottom two shipping bolts c , use the included wrench to fully loosen all 4 shipping bolts by turning them counterclockwise.
+remove the bolt assemblies (bolts and retainers) by wiggling them slightly while pulling them out.
+install the hole caps.
+locate the hole caps d included in the accessory pack or attached to the back of the washer. install the caps in the holes left by the bolt assemblies.
+caution
+once removed, save the bolt assemblies for future use. to prevent damage to internal components, do not transport the washer without reinstalling the shipping bolts. failure to remove shipping bolts and retainers may cause severe vibration and noise, which can lead to permanent damage to the washer.
+note
+the power cord is secured to the back of the washer with a shipping bolt to help prevent operation with shipping bolts in place.
+
+how to connect the water inlet hoses
+check the fittings and seals. inspect the threaded fitting on each hose and make sure there is a rubber seal a in place in both ends of each hose to prevent leaking.
+connect the water supply hoses.
+connect the water inlet hoses to the hot and cold water faucets tightly by hand and then tighten another 2/3 turn with pliers.
+connect the blue hose to the cold water faucet and the red hose to the hot water faucet.
+flush out the inlet hoses.
+after the hoses are connected, turn on the water faucets and flush out any foreign substances such as dirt, sand, or sawdust.
+let the water drain into a bucket, and check the water temperature to make sure you’ve connected the hoses to the correct faucets.
+attach the inlet hoses to the back of the washer.
+attach the hot water inlet hose to the hot water inlet on the back of the washer. attach the cold water inlet hose to the cold water inlet on the back of the washer.
+tighten the fittings securely. turn on both faucets all the way and check for leaks at both ends of the hoses.
+
+using a standpipe to drain
+clip the end of the hose into the elbow bracket.
+connect the elbow bracket a within 4 inches (10 cm) of the end of the drain hose. if the drain hose is extended more than 4 inches (10 cm) beyond the end of the elbow bracket, mold or microorganisms could spread to the inside of the washer.
+insert the end of the drain hose into the standpipe.
+use the provided tie strap b to secure the drain hose in place.
+if the water valves and drain are built into the wall, fasten the drain hose to one of the water hoses with the provided tie strap c (ribbed side on inside).
+
+using the laundry tub to drain
+clip the end of the hose into the elbow bracket.
+connect the elbow bracket a within 4 inches (10 cm) of the end of the drain hose. if the drain hose is extended more than 4 inches (10 cm) beyond the end of the elbow bracket, mold or microorganisms could spread to the inside of the washer.
+hang the end of the drain hose over the side of the laundry tub.
+use the provided tie strap to secure the drain hose in place.
+
+how to level the washer
+position the washer in its final location.
+take special care not to pinch, strain, or crush the water and drain hoses. if you have a carpenter’s level a, you can use it to check that the washer is level. the slope beneath the washer should not exceed 1 inch, and all 4 leveling feet must rest firmly on the floor.
+adjust the leveling feet.
+turn all 4 leveling feet in one direction to raise the washer or the other direction to lower it.
+check the level again.
+push or rock the top edges of the washer gently to make sure the washer does not rock. if the washer rocks, readjust the leveling feet.
+tighten the locknuts b
+turn the locknuts counterclockwise and tighten them when the washer is level.
+
+using non-skid pads
+if you install the washer on a slippery surface, it may move because of excessive vibration. incorrect leveling may cause malfunction through noise and vibration. if this occurs, install the non-skid pads under the leveling feet and adjust the level.
+clean the floor to attach the non-skid pads.
+use a dry rag to remove and clean foreign objects or moisture. if moisture remains, the non-skid pads may slip.
+adjust the level after placing the washer in the installation area.
+place the adhesive side c of the non-skid pad on the floor.
+it is most effective to install the non-skid pads under the front leveling feet. if it is hard to place the pads under the front leveling feet, place them under the back leveling feet.
+this side up
+remove backing
+recheck the washer’s levelness.
+push or rock the top edges of the washer gently to make sure the washer does not rock. if the washer rocks, level the washer again.
+
+connecting to the power supply
+plug the washer into a 120 v, 60 hz grounded 3-prong outlet.
+warning
+do not use a worn or damaged power cord or power plug. replace or repair it immediately. failure to do so may result in death, fire, electric shock, or malfunction.
+do not modify the power cord and plug provided with the appliance. do not damage it when installing or moving the appliance. doing so may result in death, fire, electric shock, or malfunction.
+make sure that the appliance is grounded.
+connect this appliance to a grounded outlet conforming to the rating prior to use. failure to do so may result in fire, electric shock, or malfunction.
+do not damage or cut off the ground prong of the power cord. doing so may cause death, fire, electric shock, or product malfunction.
+improper connection of the equipment grounding conductor can result in risk of electric shock. check with a qualified electrician or service technician if you are in doubt as to whether the appliance is properly grounded. if the plug does not fit the outlet, have a proper outlet installed by a qualified electrician.
+the appliance and outlet must be positioned so that the plug is easily accessible.
+do not use an adapter or extension cord. doing so may result in serious injury, fire, electric shock, or death.
+for best performance, plug the appliance into its own individual outlet. this helps prevent overloading house wiring circuits which could cause a fire hazard from overheated wires.
+if necessary, use a new, ul-listed 3-prong (grounding) plug rated at no less than the branch circuit. do not use an extension cord longer than 3 feet. failure to follow these warnings may result in serious injury, fire, electric shock, or death.
+
+testing the washer
+check if the washer is properly installed and run a test cycle.
+load the washer with 6 thick bath towels (approximately 6 pounds).
+press the power button.
+select the downloaded cycle. the default cycle is rinse+spin.
+press the start/pause button to start the wash cycle.
+make sure that water is supplied, that the washer does not rock or vibrate excessively, and that it drains well during the spin cycle.
+note
+if water leaks during water supply, see connecting the water inlet hoses to connect them properly.
+if the washer rocks and vibrates excessively, see leveling the washer to level it again.
+if the drain does not work, see connecting the drain hose to install the hose properly.
+
+operation overview
+sort laundry and load the washer.
+sort laundry by fabric type, soil level, color and load size as needed. open the door and load items into the washer.
+if using single-use detergent packs, or gel or tablet detergents, place them in the drum before loading the laundry.
+add cleaning products.
+add the proper amount of he (high-efficiency) detergent to the detergent dispenser.
+if desired, add bleach or fabric softener to the appropriate areas of the dispenser drawer.
+do not place liquid or powdered detergent packs, or gel or tablet detergents in the dispenser.
+turn on the washer.
+press the power button to turn on the washer.
+select a cycle.
+turn the cycle selector knob or press the cycle buttons repeatedly until the desired cycle is selected.
+the preset wash temperature, spin speed, soil level and option settings for the selected cycle are shown.
+the normal cycle must be selected in order to change its default settings.
+pressing the start/pause button without selecting a cycle immediately starts the normal cycle with the default settings.
+adjust settings.
+default settings for the selected cycle can be changed, if desired, using the cycle modifier and option buttons.
+not all modifiers and options are available on all cycles. a different chime sounds and the led does not light up if the selection is not allowed.
+begin cycle.
+press the start/pause button to begin the cycle. the door locks, and the washer agitates briefly without water to measure the weight of the load.
+if the start/pause button is not pressed within a certain time, the washer shuts off and all settings are lost.
+end of cycle.
+when the cycle is finished, a melody sounds. immediately remove the clothing from the washer to reduce wrinkling.
+check around the door seal when removing the load for small items that may be caught in the seal.
+note
+the washer rotates the laundry in a way that allows it to use less water while still fully saturating the clothing. it is normal to be unable to see water during the wash cycle.
+if the temperature or the water level inside the machine is too high, the door locks and cannot be opened.
+
+grouping similar items
+for the best washing results, and to reduce the possibility of damage to clothing, sort clothing into loads made up of similar items.
+mixing different fabric types and/or soil levels can result in poor wash performance, color transfer, discoloration, fabric damage or linting. fabrics should be sorted into groups as described below.
+colors
+sort articles by color. wash dark clothes separately from light colors or whites. mixing dark clothes with light clothes can result in dye transfer or discoloration of the lighter clothes.
+soil level
+wash heavily soiled clothing together. washing lightly soiled clothing in the same load with heavily soiled clothing could result in poor wash performance for the lightly soiled clothing.
+fabric type
+delicate articles should not be mixed with heavy or sturdy fabric types. washing heavy fabrics with delicates can result in poor wash performance for the heavy fabrics and possible damage to the delicates.
+lint type
+some fabrics attract and bind lint to them while others give off lint in the laundry process. avoid mixing these lint collectors and lint producers in the same load. mixing these fabrics will result in pilling and linting on the lint collectors. (for example, lint collector - knit sweater; lint producer - terry cloth towels.)
+how to sort laundry
+by colors
+by soil
+by fabric
+by lint
+white
+heavy
+delicates
+lint producer
+lights
+normal
+easy care
+lint collector
+darks
+light
+sturdy
+
+fabric care labels
+many articles of clothing include a fabric care label. using the chart below, adjust the cycle and option selections to care for your clothing according to the manufacturer’s recommendations.
+category
+label
+directions
+washing
+hand wash
+machine wash, normal cycle
+perm press/wrinkle resistant setting (which has a cool down or cold spray before the slower spin)
+gentle/delicate setting (slow agitation and/or reduced wash time)
+do not wash
+do not wring
+water temperature
+hot
+warm
+cold/cool
+bleach symbols
+any bleach (when needed)
+only non-chlorine bleach (when needed)
+do not bleach
+
+general tips
+check and empty pockets. paper clips, coins, matches, and other items can damage clothing and the washer.
+close zippers and hooks, and tie drawstrings to prevent snagging or tangling of clothes.
+pretreat heavily stained areas for best results.
+brush off heavy soil, dust, and hair from items before washing. excess dirt or sand can abrade other fabrics and lead to poor wash performance.
+for best performance, load clothes as shown.
+do not press down on items while stacking them in the drum.
+load clothes loosely, and do not overfill the drum. clothes need room to circulate in order to get clean.
+combine large and small items in the drum. load large items first. large items should not be more than half of the total load.
+the washer can be fully loaded, but the drum should not be tightly packed with items. the door of the washer must close easily.
+the washer will not fill or operate with the door open.
+
+bulky items
+wash thick, bulky items individually. heavy blankets, comforters, bedspreads, or pet beds can get tangled or cause an unbalanced load if combined with other items.
+
+small items
+do not wash a single small item. add enough similar items to the load to prevent an out-of-balance load.
+wash small, light items in a mesh bag. small items can get caught in the impeller at the bottom of the drum, and brassiere hooks can snag on other clothing or the drum.
+
+about detergent use
+this washer is designed for use with only he (high-efficiency) detergents.
+he detergents produce fewer suds, dissolve more efficiently to improve washing and rinsing performance, and help to keep the interior of the washer clean. using detergent that is not he may cause oversudsing and unsatisfactory performance which could result in error codes, cycle failure, and washer damage.
+detergents designated as he-compatible may not provide optimal results.
+for proper wash performance, always measure detergent using the measuring device provided by the detergent manufacturer. for an average load, use less than half of the recommended maximum. use less detergent for soft water, light soil, or smaller loads.
+use extra care when measuring 2x and 3x concentrated detergents because even a small amount of extra detergent can lead to problems.
+never use more than the maximum amount of detergent recommended by the manufacturer. using too much detergent can lead to oversudsing, poor rinsing, detergent buildup in clothing, and residue buildup that can contribute to odors in the washer.
+do not use more than one single-use detergent pack in the washer. using too much detergent may cause oversudsing and unsatisfactory performance. reduce detergent amount or add an extra rinse if detergent residue is left on fabrics. to add an extra rinse, select the extra rinse option.
+maximum fill line
+average load fill line
+liquid detergent
+powdered detergent
+
+single-use detergent packs / gel or tablet detergents
+place liquid or powdered detergent packs, or gel or tablet detergents in the drum before loading laundry. do not place these detergents in the dispenser.
+
+using the dispenser
+to add cleaning products to the automatic dispenser:
+open the dispenser drawer.
+load the laundry products into the appropriate compartments.
+follow the manufacturer’s recommendations when adding cleaning products.
+main wash detergent compartment
+liquid fabric softener compartment
+pre-wash detergent compartment
+gently close the detergent dispenser drawer before starting the cycle.
+slamming the drawer closed may result in the detergent overflowing into another compartment or dispensing into the drum earlier than programmed.
+be careful not to get a hand caught in the drawer while closing.
+it is normal for a small amount of water to remain in the dispenser compartments at the end of the cycle.
+caution
+do not place or store laundry products, such as detergent, bleach, or liquid fabric softener, on top of your washer. these products can damage the washer’s finish and controls.
+main wash detergent compartment
+this compartment holds laundry detergent for the main wash cycle. either powdered or liquid detergent may be used in this compartment.
+the detergent is added to the load at the beginning of the cycle. always use he (high-efficiency) detergent with your washer.
+do not exceed the maximum fill line. using too much detergent can result in detergent buildup in clothing and the washer.
+liquid or powdered color-safe bleach may be added to the main wash compartment with detergent of the same type. do not mix liquids and powders
+if the dispenser has a liquid detergent cup and insert:
+make sure they are in place when using liquid detergent.
+make sure to remove them when using powdered detergent. powdered detergent will not dispense with the liquid detergent cup and insert in place.
+when using powdered detergent, remove the insert and liquid detergent cup from the dispenser. powdered detergent will not dispense with the liquid detergent cup and insert in place.
+if you use a detergent that does not dissolve easily or a detergent with high viscosity, it will leave a residue and clog the dispenser.
+fabric softener compartment
+this compartment holds fabric softener, which is automatically dispensed during the final rinse cycle. either powdered or liquid fabric softener may be used.
+do not exceed the maximum fill line. using too much fabric softener may stain clothes or cause buildup on fabrics or in the washer.
+dilute concentrated fabric softeners with warm water.
+never pour fabric softener directly onto the load or into the drum.
+pre-wash detergent compartment
+add liquid or powdered detergent to this compartment when using the pre-wash option. always use he (high-efficiency) detergent with your washer.
+when using the pre-wash option, liquid detergent for the main wash needs to be loaded in the liquid detergent cup accessory in the main wash dispenser (where applicable), to prevent it from being dispensed with the pre-wash detergent.
+the amount of detergent added for the pre-wash option is 1/2 the amount recommended for the main wash cycle. for example, if the main wash cycle requires one measure of detergent, add 1/2 measure for the pre-wash option.
+
+control panel features
+power on/off button
+press this button to turn the washer on or off.
+pressing this button during a cycle will cancel that cycle and any load settings will be lost.
+the door will unlock after a brief pause.
+note
+if there is any water remaining in the drum after the washer shuts off, it will drain after a delay. the washer can be restarted at any time before the drain begins. however, once the water begins to drain, all functions will be suspended until the water has been completely drained and the washer shuts off.
+cycle selector knob
+turn this knob to select the desired cycle.
+once the desired cycle has been selected, the standard presets will appear in the display. these settings can be adjusted using the cycle modifier buttons at any time before starting the cycle.
+start/pause button
+press this button to start the selected cycle.
+if the washer is running, use this button to pause the cycle without losing the current settings.
+note
+if the start/pause button is not pressed to start the selected cycle, after a delay the washer automatically turns off and all cycle settings are lost. any water remaining in the drum will be drained.
+option and extra function buttons
+these buttons allow you to select additional cycle options. certain buttons also allow you to activate special functions by pressing and holding the button for 3 seconds.
+cycle modifier buttons
+use these buttons to adjust the wash temperature, spin speed and soil level settings for the selected cycle.
+the current settings are shown in the display.
+press the button for that option to select other settings.
+time and status display
+time and status display
+ai dd indicator
+ai dd provides the appropriate drum rotation actions after load sensing is completed.
+this indicator lights up when the normal cycle is selected and operated.
+cycle status indicators
+these leds will blink when a cycle is selected to indicate which stages will run.
+when a cycle is running, the led for the active stage will blink, and the leds for the remaining stages will remain steady. once a stage is complete, the led will turn off. if a cycle is paused, the active stage led will stop blinking.
+estimated time remaining
+when a cycle is selected, the default time for that cycle is displayed. this time will change as modifiers or options are selected.
+if the display shows -i--, then the time will be displayed after the load sensing has detected the load size.
+the time shown is only an estimate. this time is based on normal operating conditions. several external factors (load size, room temperature, incoming water temperature, etc.) can affect the actual time.
+note
+once the start/pause button is pressed, the washer will measure the size of the load. the estimated time may change once the load size has been measured.
+if the delay wash function is set, the remaining delay time counts down until the cycle begins.
+signal indicator
+this indicator lights up when the signal is turned off.
+control lock indicator
+this indicator lights up when the control panel is locked.
+cl and the remaining wash time are displayed, in turn, on the time remaining display.
+when this function is set, all controls are disabled except for the power button.
+wi-fi indicator
+this indicator is lit when the product is connected to a home wi-fi network.
+remote start indicator
+this indicator lights up when the remote start feature is activated.
+door lock indicator
+this indicator lights up when the cycle starts and the door is locked.
+the indicator light stays on until the cycle is paused, stopped or has finished.
+
+cycle guide
+turn the knob or press the button to select the desired cycle. when you select a wash cycle, the light for the corresponding wash cycle will turn on.
+note
+whenever load weights are mentioned, assume 1 lb (0.45 kg) = 1 thick bath towel (dry).
+cycle
+normal
+description
+use to wash all normal items such as cotton, linen, shirts, jeans or mixed loads, except delicate fabrics such as wool or silk.
+pressing the start/pause button without selecting a cycle will cause the normal cycle to begin immediately, using the default settings.
+wash temp.
+default: warm
+available: all
+spin speed
+default: high
+available: all
+cycle
+heavy duty
+description
+suitable for washing heavily soiled laundry, such as cotton fabrics, using more powerful wash motions.
+when washing large loads, there will be brief periods of 2 minutes or more without agitation. these soak periods are part of the cycle’s design, and are normal.
+wash temp.
+default: warm
+available: ex hot, hot, warm
+spin speed
+default: high
+available: all
+cycle
+bulky/large
+description
+suitable for washing blankets or bulky items which have difficulty absorbing water, such as pillows, blankets, comforters, sheets or pet bedding.
+do not use this cycle to wash a mixed load of bedding and non-bedding items.
+do not mix large/bulky items with smaller articles of clothing.
+do not wash excessively large items. if large/bulky items do not fit easily into the drum, there may not be enough room for them to move during washing.
+wash temp.
+default: tap cold
+available: hot, warm, cold, tap cold
+spin speed
+default: high
+available: high, med, low, no spin
+cycle
+sanitary
+description
+this cycle reduces bacteria on laundry when used in conjunction with bleach, without high energy consumption.
+wash temp.
+default: ex hot
+available: ex hot
+spin speed
+default: high
+available: high, med, low, no spin
+cycle
+baby wear
+description
+this cycle helps wash food stains from baby clothes using a powerful rinse.
+wash temp.
+default: ex hot
+available: ex hot
+spin speed
+default: high
+available: high, med, low, no spin
+cycle
+allergienetm
+description
+this cycle is a powerful, high-temperature cycle designed specifically to reduce certain allergens.
+note
+selecting this cycle automatically incorporates steam into the wash cycle.
+this cycle can significantly reduce allergens in bedding and clothing.
+this cycle helps reduce dust mite populations and helps reduce allergens. due to the higher energy and temperatures used, this cycle is not recommended for wool, silk, leather, or any other delicate or temperature sensitive items.
+wash temp.
+default: ex hot
+available: ex hot
+spin speed
+default: ex high
+available: all
+cycle
+tub clean
+description
+this is a special cycle designed to clean the inside of the washer.
+cycle
+delicates
+description
+suitable for washing dress shirts/blouses, nylons, lingerie, or sheer and lacy clothes which can easily be damaged.
+wash temp.
+default: cold
+available: hot, warm, cold, tap cold
+spin speed
+default: med
+available: med, low, no spin
+cycle
+hand wash/wool
+description
+this cycle is for washing shrinkable woolen or hand-washable items requiring delicate care. only wash woolen items that are labeled machine washable or hand-washable.
+laundry weight should be less than 8 pounds (3.6 kg) to prevent damage to the fabric.
+use only natural or wool-safe detergent and load 1/2 of the normal amount of detergent.
+this cycle uses a gentle tumble rotation angle and low-speed spin for the ultimate fabric care.
+wash temp.
+default: warm
+available: hot, warm, cold, tap cold
+spin speed
+default: med
+available: med, low, no spin
+cycle
+perm. press
+description
+use this cycle to minimize wrinkles when washing tablecloths or “wrinkle-free” clothes.
+wash temp.
+default: hot
+available: all
+spin speed
+default: high
+available: all
+cycle
+sportswear
+description
+washes special garments like sports and outdoor wear.
+use for water-repellent fabric laminate used on clothing.
+wash temp.
+default: hot
+available: hot, warm, cold, tap cold
+spin speed
+default: med
+available: med, low, no spin
+cycle
+speed wash
+description
+quickly washes lightly soiled clothing and small loads. for high wash and rinse efficiency, wash small loads of 2-3 lightly soiled garments.
+use very little detergent in this cycle. to add an extra rinse, use the extra rinse option.
+wash temp.
+default: cold
+available: hot, warm, cold, tap cold
+spin speed
+default: med
+available: all
+cycle
+drain+spin
+description
+this cycle is for draining and spinning without the wash and rinse cycle, or for removing the load from the washing machine in the middle of the cycle.
+you can change the spin speed by pressing the spin button repeatedly until the desired speed is selected.
+cycle
+downloaded (rinse+spin)
+description
+you can use a smartphone to download a specialized cycle to this cycle position.
+the default cycle is rinse+spin. this cycle is also available for download.
+refer to the lg thinq application to see the cycles available for download.
+spin speed
+default: ex high
+available: all
+
+available options
+note
+for the drain + spin cycle, only the delay wash and add item options can be selected.
+the delay wash and add item options are available for every cycle in this table.
+cycle
+heavy soil
+extra rinse
+pre-wash
+normal
+#
+#
+#
+heavy duty
+#
+#
+#
+bulky/large
+#
+#
+sanitary
+#
+#
+baby wear
+#
+#
+allergienetm
+#
+#
+delicates
+#
+#
+hand wash/wool
+#
+#
+perm. press
+#
+#
+#
+sportswear
+#
+#
+speed wash
+#
+#
+#
+
+about modifier buttons
+each cycle has default settings that are selected automatically. you can also customize these settings using the cycle modifier buttons.
+repeatedly press the button for the desired modifier until the indicator light for the desired setting is lit.
+the washer automatically adjusts the water level for the type and size of wash load for best results and maximum efficiency.
+this is a high-efficiency washer, and the water levels may be much lower than you expect. this is normal, and cleaning/rinsing performance will not be compromised.
+note
+the setting lights up when it is selected.
+to protect your garments, not every wash temperature, spin speed, soil level, or option is available with every cycle.
+a chime will sound twice and the led will not light if the desired setting is not allowed for the selected cycle.
+follow the fabric care labels on the garment for best results.
+temp.
+make sure the wash temperature is suitable for the type of load you are washing.
+press the temp. button repeatedly to select the wash and rinse temperature combination for the selected cycle.
+all rinses use unheated cold water.
+cold rinses use less energy. the actual cold rinse temperature depends on the temperature of the cold water at the faucet.
+your washer features a heating element to boost the hot water temperature for ex hot settings. this provides improved wash performance at normal water heater settings.
+spin
+higher spin speeds extract more water from clothes, reducing drying time and saving energy.
+press the spin button repeatedly until the desired speed is selected.
+some fabrics, such as delicates, require a slower spin speed.
+
+using the pre-wash option
+this option adds a pre-wash (for about 15 - 17 minutes) for improved cleaning of heavily soiled or stained clothing.
+note
+if you select pre-wash after putting the detergent directly in the drum, the detergent may be washed away, reducing the washing performance.
+
+remote start
+use a smartphone to control your washer remotely.
+for more information, see smart functions in this manual.
+
+delay wash
+once you have selected the cycle and other settings, press the delay wash button to delay the start of the wash cycle.
+each press of this button increases the delay time by 1 hour, for up to 19 hours.
+once the desired delay time is set, press the start/pause button to start the delay time.
+note
+if the start/pause button is not pressed to begin the delay time, the washer automatically turns off after a certain time and all cycle settings are lost.
+
+wi-fi
+when the washer is connected to a home wi-fi network, the f icon on the control panel is lit.
+to connect the washer to the lg thinq application, press and hold the delay wash button for 3 seconds.
+
+add item
+use this function to add garments or remove foreign objects like coins or keys after the cycle has started.
+press the add item button while the wash cycle is running.
+the cycle pauses and the door unlocks.
+open the door, add garments or remove foreign objects, and close the door.
+press the start/pause button to resume the cycle. the cycle continues automatically.
+warning
+do not attempt to force the door to open when locked. doing so could result in damage to the appliance, malfunction, or personal injury.
+note
+if the water level and temperature are safe, the door lock led turns off and the door unlocks once the wash movement has stopped.
+if the water level is too high, the door will not unlock, and this function cannot be used.
+if the temperature in the drum is higher than 113 ℉ (45 ℃), a short warning chime sounds and this function is not allowed for safety.
+this function is disabled during the tub clean cycle.
+to preserve wash performance, wash time may be extended depending on when garments are added to a cycle.
+be careful when opening the door as wet laundry may drip or fall out.
+
+extra rinse
+this option adds an extra rinse to the selected cycle. use this option to help ensure the removal of detergent or bleach residue from fabrics.
+press the extra rinse button to add additional rinses to the cycle.
+
+heavy soil
+select this option to wash heavily soiled laundry with more power than the standard cycle.
+press the heavy soil button to select the option.
+
+control lock
+use this function to disable the controls. this function can prevent children from changing cycles or operating this washer.
+note
+the function does not lock the door.
+once this function is set, all buttons are locked except the power button.
+when the controls are locked, cl and the remaining time are alternately shown on the display during the wash cycle.
+turning off the power will not reset this function. you must deactivate this function before you can access any other options and functions.
+locking/unlocking the control panel
+turn on the power.
+press and hold the delay wash and add item buttons at the same time for 3 seconds to activate/deactivate this function.
+when the function is deactivated, a chime will sound and the remaining time for the current cycle will reappear on the display.
+
+signal
+the washer plays a melody when the wash cycle is finished. the buttons make a sound each time a button is pressed. use this button to turn the melody and button tones on or off.
+to turn the function on/off, press and hold the extra rinse and pre-wash buttons at the same time for 3 seconds.
+
+lg thinq application features
+the app is compatible with products that contain the wireless lan module.
+remote start
+control the appliance remotely from the lg thinq application.
+downloaded
+download new and specialized cycles that are not included in the standard cycles on the appliance.
+tub clean coach
+find out how many cycles remain before it is time to run the tub clean cycle.
+energy monitoring
+keep track of the washer's power consumption and how it is affected by your selected wash cycles and options.
+smart diagnosistm
+this function provides useful information for diagnosing and solving issues with the appliance based on the pattern of use.
+push alerts
+when the cycle is complete or the appliance has problems, you will receive a push message.
+settings
+set various options on the appliance and in the application.
+note
+if you change your wireless router, internet service provider, or password, delete the connected appliance from the lg thinq application and connect it again.
+this information is current at the time of publication. the application is subject to change for product improvement purposes without notice to users.
+
+before using lg thinq application
+check the distance between the appliance and the wireless router (wi-fi network).
+if the appliance is too far from the router, the signal strength becomes weak. it may take a long time to connect or installation may fail.
+turn off the mobile data or cellular data on your smartphone.
+connect your smartphone to the wireless router.
+note
+to verify the wi-fi connection, check that the f icon on the control panel is lit.
+the appliance supports 2.4 ghz wi-fi networks only. to check your network frequency, contact your internet service provider or refer to your wireless router manual.
+lg thinq is not responsible for any network connection problems or any faults, malfunctions, or errors caused by network connection.
+if the appliance is having trouble connecting to the wi-fi network, it may be too far from the router. purchase a wi-fi repeater (range extender) to improve the wi-fi signal strength.
+the wi-fi connection may not connect or may be interrupted because of the home network environment.
+the network connection may not work properly depending on the internet service provider.
+the surrounding wireless environment can make the wireless network service run slowly.
+if the appliance cannot be registered due to problems with the wireless signal transmission, unplug the appliance and wait about a minute before trying again.
+if the firewall on your wireless router is enabled, disable the firewall or add an exception to it.
+the wireless network name (ssid) should be a combination of english letters and numbers. (do not use special characters.)
+smartphone user interface (ui) may vary depending on the mobile operating system (os) and the manufacturer.
+if the security protocol of the router is set to wep, network setup may fail. change the security protocol (wpa2 is recommended) and connect the product again.
+
+installing the lg thinq application
+search for the lg thinq application from the google play store or apple app store on a smartphone. follow instructions to download and install the application.
+
+using the appliance remotely
+remote start
+use a smartphone to control your appliance remotely. you can also monitor your cycle operation so you know how much time is left in the cycle.
+using remote start
+put the laundry in the drum and add detergent to the detergent dispenser drawer.
+if desired, add bleach or fabric softener to the appropriate areas of the dispenser.
+press the power button.
+press and hold the remote start button for 3 seconds to enable the remote control function.
+start a cycle from the lg thinq application on your smartphone.
+note
+once this function is enabled, you can only start a cycle from the lg thinq smartphone application. if the cycle is not started, the appliance will wait to start the cycle until it is turned off remotely from the application or this function is disabled.
+if the door has been opened, you cannot start a cycle remotely.
+disabling remote start manually
+when the function is activated, press and hold the remote start button for 3 seconds.
+download cycle
+you can download new and specialized cycles that are not included in the standard cycles on the appliance.
+appliances that have been successfully connected can download a variety of specialty cycles specific to the appliance.
+once cycle download is completed in the appliance, the product keeps the downloaded cycle until a new cycle is downloaded.
+note
+only one downloaded cycle can be stored on the appliance at a time.
+
+wireless lan module specifications
+frequency range
+2412 - 2462 mhz
+output power (max)
+< 30 dbm
+
+fcc notice
+the following notice covers the transmitter module contained in this product.
+this equipment has been tested and found to comply with the limits for a class b digital device, pursuant to part 15 of the fcc rules. these limits are designed to provide reasonable protection against harmful interference in a residential installation. this equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. however, there is no guarantee that interference will not occur in a particular installation. if this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
+reorient or relocate the receiving antenna.
+increase the separation between the equipment and the receiver.
+connect the equipment to an outlet on a circuit different from that to which the receiver is connected.
+consult the dealer or an experienced radio/tv technician for help.
+this device complies with part 15 of the fcc rules. operation is subject to the following two conditions:
+(1) this device may not cause harmful interference and
+(2) this device must accept any interference received, including interference that may cause undesired operation.
+any changes or modifications in construction of this device which are not expressly approved by the party responsible for compliance could void the user’s authority to operate the equipment.
+
+fcc rf radiation exposure statement
+this equipment complies with fcc radiation exposure limits set forth for an uncontrolled environment. this transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
+this equipment should be installed and operated with a minimum distance of 20 cm (7.8 inches) between the antenna and your body. users must follow the specific operating instructions for satisfying rf exposure compliance.
+
+industry canada statement
+this device contains licence-exempt transmitter(s)/receiver(s) that comply with innovation, science and economic development canada’s licence-exempt rss(s). operation is subject to the following two conditions:
+(1) this device may not cause interference.
+(2) this device must accept any interference, including interference that may cause undesired operation of the device.
+
+ic radiation exposure statement
+this equipment complies with ic radiation exposure limits set forth for an uncontrolled environment.
+this equipment should be installed and operated with a minimum distance of 20 cm (7.8 inches) between the antenna and your body.
+note
+the manufacturer is not responsible for any radio or tv interference caused by unauthorized modifications to this equipment. such modifications could void the user’s authority to operate the equipment.
+
+open source software notice information
+to obtain the source code under gpl, lgpl, mpl, and other open source licenses, that is contained in this product, please visit http://opensource.lge.com. in addition to the source code, all referred license terms, warranty disclaimers and copyright notices are available for download.
+lg electronics will also provide open source code to you on cd-rom for a charge covering the cost of performing such distribution (such as the cost of media, shipping, and handling) upon email request to opensource@lge.com. this offer is valid for a period of three years after our last shipment of this product. this offer is valid to anyone in receipt of this information.
+
+using lg thinq to diagnose issues
+if you experience a problem with your wi-fi equipped appliance, it can transmit troubleshooting data to a smartphone using the lg thinq application.
+launch the lg thinq application and select the smart diagnosistm feature in the menu. follow the instructions provided in the lg thinq application.
+
+using audible diagnosis to diagnose issues
+follow the instructions below to use the audible diagnosis method.
+launch the lg thinq application and select the smart diagnosistm feature in the menu. follow the instructions for audible diagnosis provided in the lg thinq application.
+press the power button to turn on the appliance.
+do not press any other buttons.
+place the mouthpiece of your smartphone close to the c or d logo.
+press and hold the temp. button for 3 seconds or until the audible tones start. hold the smartphone mouthpiece to the logo until the data transfer is complete.
+keep the smartphone in place until the data transfer has finished. time remaining for data transfer is displayed.
+after the data transfer is complete, the diagnosis will be displayed in the application.
+note
+for best results, do not move the smartphone while the tones are being transmitted.
+
+care after wash
+after the cycle is finished, wipe the door and the inside of the door seal to remove any moisture.
+wipe the body of the washer with a dry cloth to remove any moisture.
+leave the door open to dry the drum interior.
+warning
+make sure children and pets do not climb into the drum. engage the control lock feature if needed to prevent children from accidentally starting a wash cycle.
+
+cleaning the exterior
+proper care of your washer can extend its life.
+door:
+wash with a damp cloth on the outside and inside and then dry with a soft cloth.
+exterior:
+immediately wipe off any spills.
+wipe with a damp cloth.
+do not touch the surface or the display with sharp objects.
+
+cleaning the drum
+over time, residue may build up in the drum, leading to mildew or a musty odor. run the tub clean cycle monthly to remove residue and prevent odor.
+note
+make sure to run the tub clean cycle only when the drum is empty. never load laundry while using this cycle. the laundry may be damaged or contaminated with cleaning products.
+run the cycle more often under heavy use conditions or if odor is already present.
+if mildew or musty smell already exists, run this cycle once a week for three consecutive weeks.
+remove any clothing from the drum.
+add cleaning agents.
+cleaner
+instructions
+drum cleaner
+add to main detergent compartment of detergent dispenser
+lime scale remover
+liquid chlorine bleach
+add to bleach compartment of detergent dispenser.
+powdered cleaner
+pull out liquid detergent cup before adding to main detergent compartment
+cleaning tablets
+place directly into the washer drum.
+for other drum cleaning products, follow the cleaner manufacturer’s instructions and recommendations.
+do not exceed the maximum fill line when adding bleach or powdered cleaners. powdered cleaners may remain in the drum after cleaning.
+close the door and press the power button.
+select the tub clean cycle and press the start/pause button to begin the cycle.
+after the cycle ends, open the door and allow the drum interior to dry completely.
+warning
+make sure children and pets do not climb into the drum. engage the control lock feature if needed to prevent children from accidentally starting a wash cycle.
+note
+if you use a descaler or drum cleaner during the tub clean cycle, use the rinse+spin option to rinse the washer drum before running your next wash cycle.
+automatic alert for tub clean
+when the power is on and the tcl message blinks on the display, it means the washer drum needs cleaning. use the tub clean cycle to clean the washer drum. the frequency of the automatic alert’s appearance depends on how often the washer is used. however, the message will generally appear every one to two months.
+
+removing mineral buildup
+in areas with hard water, mineral scale can form on internal components of the washer. periodically clean the mineral buildup on the internal components to extend the lifespan of the washer. use of a water softener is recommended in areas with hard water.
+use a descaler to remove visible mineral buildup on the washer drum.
+after descaling, always run the tub clean cycle before washing clothing.
+mineral scale and other spots may be removed from the stainless steel drum using a soft cloth soaked in stainless steel cleaner.
+do not use steel wool or abrasive cleaners.
+
+leaving the door open
+after you finish using the washer, leave the door open overnight to allow air to circulate and dry the drum. this helps prevent odors.
+
+cleaning the dispenser drawer
+leaving detergent in the detergent dispenser drawer for an extended period of time or using the washer for a long period of time may cause the build-up of residue in the detergent dispenser drawer. remove and clean the detergent dispenser drawer once or twice a month.
+warning
+do not spray water inside the washer. doing so may cause fire or electric shock.
+turn off the washer, and unplug the power cord.
+pull the drawer straight out until it stops.
+press down hard on the disengage button and pull the drawer completely out.
+remove the inserts from the drawer.
+clean the inserts and drawer with warm water.
+use a soft cloth or brush to clean and to remove any residue.
+do not use soap when cleaning the drawer and inserts.
+wipe off any moisture with a dry towel or cloth after cleaning.
+to clean the drawer opening, use a small, non-metal brush to clean the recess. remove all residue from the upper and lower parts of the recess.
+replace the drawer.
+
+cleaning the door seal
+clean the door seal once a month to prevent build-up of dirt.
+caution
+cleaning the door seal with undiluted bleach may cause malfunction of the door seal and washer parts. you must add water to the bleach before using it.
+wear rubber gloves and protective goggles.
+dilute 3/4 cup (177 ml) of liquid chlorine bleach in 1 gallon (3.8 l) of water.
+wipe around the door seal.
+soak a sponge or a soft cloth in this diluted solution and wipe all around the door seal.
+wipe up any moisture with a dry towel or cloth after cleaning.
+leave the door open to allow the door seal to dry completely.
+
+cleaning the water inlet filters
+if the washer does not fill properly, an error message will appear on the display. the inlet valve filter screens could be clogged by hard water scale, sediment in the water supply, or other debris.
+warning
+the inlet screens protect the delicate parts of the inlet valve from being damaged by particles that could enter the valves with the water supply. operating the washer with these filters removed could cause a valve to open continuously, resulting in flooding and/or property damage.
+caution
+do not use the washer without the inlet filters. doing so will cause leaks and malfunction.
+if you use the washer in an area with hard water, the inlet filter may clog due to lime buildup and require more frequent cleaning.
+turn off the washer, and unplug the power cord.
+turn off hot and cold water faucets.
+unscrew the hot and cold water hoses from the back of the washer.
+remove the filters from the water valves carefully.
+use pliers to pull out the filters from the water valves.
+remove foreign objects and soak the filters in white vinegar or a lime scale remover.
+if using a lime scale remover, follow the manufacturer’s instructions. be careful not to damage the filters while cleaning them.
+rinse filters thoroughly and press them back into place.
+flush then reattach the water hoses.
+before reattaching the water inlet hoses, flush them by running several gallons of water through them into a bucket or drain, preferably with the faucets wide open for maximum flow.
+note
+an ie error message may blink on the display when the water pressure is low or an inlet filter is clogged with dirt. clean the inlet filter.
+
+cleaning the drain pump filter
+the washer fails to drain if the drain pump filter is clogged. periodically clean the drain filter to prevent clogging with foreign objects.
+warning
+opening the drain filter will result in water overflowing if there is water in the drum. use a bucket if the drum is not completely drained before you open the drain filter.
+using the washer without the drain filter or with an incorrectly assembled drain filter may cause leaks or malfunction of the washer.
+turn off the washer, and unplug the power cord.
+open the drain pump filter cover.
+drain any remaining water.
+unclip the drain hose and remove the plug from the drain hose to drain the remaining water.
+remove the pump filter.
+twist the pump filter counterclockwise to remove.
+clean the pump filter and opening.
+reassemble the plug onto the drain hose and reclip the drain hose.
+insert the drain pump filter and twist it clockwise.
+close the drain pump filter cover.
+note
+an oe message blinks on the display when the drain pump filter is clogged with dirt. clean the drain pump filter.
+
+storing the washer
+if the washer will not be used for an extended period of time and is in an area that could be exposed to freezing temperatures, follow these steps to protect the washer from damage.
+note
+make sure the drum is empty before following these steps.
+turn off the washer, and unplug the power cord.
+turn off the water faucets.
+disconnect the water inlet hoses. drain any water from the hoses.
+plug the power cord into a properly grounded electrical outlet.
+add 1 gallon of nontoxic recreational vehicle (rv) antifreeze to the empty drum and close the door.
+never use automotive antifreeze.
+turn on the washer and press the spin button.
+press the start/pause button to start the drain pump for 1 minute.
+this will expel some of the antifreeze, leaving enough to protect the washer from damage.
+turn off the washer and unplug the power cord.
+dry the drum interior with a soft cloth, and close the door.
+store the washer in an upright position.
+remove the inserts from the dispenser. drain any water in the compartments and let them dry.
+to remove the antifreeze from the washer after storage, run the rinse+spin cycle using detergent.
+do not add laundry to this cycle.
+
+when the water inlet hoses are frozen
+turn off the washer, and unplug the power cord.
+turn off the faucets connected to the water inlet hoses.
+pour hot water on the frozen faucets to thaw the water inlet hoses and remove the water inlet hoses.
+immerse the water inlet hoses in hot water to thaw them.
+reconnect the water inlet hoses to the water inlets of the washer and to the faucets.
+see connecting the water inlet hoses for details.
+turn on the faucets.
+press the power button to turn on the washer.
+press the spin button to operate spin only cycle for draining and spinning.
+press the start/pause button.
+
+when the drain hose is frozen
+pour hot water in the washer drum and close the door.
+wait for 1 - 2 hours.
+press the power button.
+press the spin button to operate spin only cycle for draining and spinning.
+press the start/pause button to make sure the water drains.
+
+faqs
+q:
+why does my washer make loud banging noises while it is filling with water?
+a:
+this is actually a problem with the plumbing in your home. when the water valve in the washer shuts off, it can cause pipes in your home to move, resulting in a loud banging noise. this effect, called water hammer, can be reduced by installing an item called a water hammer arrestor. add-on arrestors can be purchased through your local hardware or home improvement store.
+q:
+why is there so little water in my washer? how can it clean the clothes?
+a:
+he (high-efficiency) washers are designed to properly wash your laundry while using a minimum amount of water and energy. because the water volume is low, the small amount of detergent used is more concentrated in the water, resulting in excellent cleaning performance.
+q:
+when i press a button, why does my washer beep and then nothing happens?
+a:
+the control lock feature is turned on. to turn it off, turn on the washer, then press and hold the button that has control lock on or under it for 3 seconds.
+q:
+where should i pour the powdered laundry products when doing my laundry?
+a:
+if you are using powdered laundry detergent, load it in the main detergent dispenser after removing the liquid detergent insert. powdered laundry agents or powdered color safe bleach should be put directly into the drum. these products can be put in the empty drum before loading or on top of the laundry after loading the washer.
+
+error messages
+ie
+inlet error
+cause
+water supply faucets are not fully open.
+solution
+make sure that the water faucets are fully open.
+cause
+water inlet hoses are kinked, pinched, or crushed.
+solution
+make sure that the hoses are not kinked, pinched or crushed behind or under the washer. be careful when moving the washer during cleaning or maintenance.
+cause
+water inlet filters are clogged.
+solution
+clean the inlet filters. see maintenance.
+cause
+water supply pressure to faucet or house is too low.
+solution
+check another faucet in the house to make sure that household water pressure is adequate and flow is not restricted.
+disconnect the water inlet hoses from the washer and run a few gallons of water through the hoses to flush out any dirt.
+if flow is too low, contact a plumber to have the water supply lines repaired.
+cause
+water supply connected with leak-limiting hoses.
+solution
+the use of hoses designed to limit leaks is not recommended. leak limiting hoses can trip falsely and prevent the washer from filling.
+ue
+unbalance error
+cause
+the load is too small.
+solution
+add additional items to allow the washer to balance the load.
+cause
+heavy articles are mixed with lighter items.
+solution
+always try to wash articles of somewhat similar weight to allow the washer to evenly distribute the weight of the load for spinning.
+cause
+the load is out of balance.
+solution
+manually redistribute the load if articles have become tangled, preventing the automatic rebalancing from working properly.
+de, de1, dez, de4
+door open error
+cause
+the door is not secured.
+solution
+close and secure the door. if the message keeps appearing, unplug the power cord and call for service.
+oe
+water outlet error
+cause
+drain hose is kinked, pinched, or clogged.
+solution
+make sure that the drain hose is free of clogs or kinks and is not pinched behind or under the washer.
+cause
+the end of the drain hose is more than 96 inches (2.4 m) above the bottom of the washer.
+solution
+move the end of the drain hose so that it is lower than 96 inches (2.4 m).
+te
+temperature sensor error
+cause
+control error.
+solution
+unplug the washer and wait 60 minutes. reconnect power and try again.
+if the error code is still displayed, call for service
+fe
+overflow error
+cause
+water level is too high due to a faulty water valve.
+solution
+close the water faucets, unplug the washer, and call for service.
+pe
+pressure sensor error
+cause
+the water level sensor is not working correctly.
+solution
+close the water faucets, unplug the washer, and call for service.
+le
+motor locked error
+cause
+a motor error has occurred.
+solution
+allow the washer to stand for 30 minutes and then restart the cycle.
+if the error code is still displayed, call for service.
+ff
+frozen error
+cause
+inlet hose, drain hose or drain pump is frozen.
+solution
+see care in cold climates.
+cl
+control lock function
+cause
+the control lock function is on to prevent anyone from changing cycles or operating the washer.
+solution
+turn off the control lock function in the control panel. see control lock under options and extra functions.
+tcl
+tub clean alarm
+cause
+it is time to run the tub clean cycle.
+solution
+this is not an error code. it indicates that the tub clean cycle is running or needs to be run to clean the washer drum.
+vs
+vibration sensor error
+cause
+vibration sensor malfunctions.
+solution
+call for service.
+dhe
+dry error
+cause
+dryer function not working (on washer/dryer combination models).
+solution
+call for service.
+
+noises
+clicking
+cause
+door lock sounds when the door locks or unlocks.
+solution
+normal operation
+spraying or hissing
+cause
+water spraying or circulating during the cycle
+solution
+normal operation
+humming or gurgling
+cause
+drain pump is pumping water from the washer at times during a cycle.
+solution
+normal operation
+water sloshing
+cause
+a liquid in the balance ring around the pulsator helps the basket spin smoothly.
+solution
+normal operation
+water being added after the washer has already begun to operate
+cause
+the washer adapts to the load size and type to add more water to the cycle as needed.
+solution
+normal operation
+cause
+the wash load may be unbalanced. if the washer senses that the load is unbalanced, it will stop and refill to redistribute the load.
+solution
+normal operation
+cause
+the washer may be diluting laundry additives to add to the wash load.
+solution
+normal operation
+rattling and clanking noise
+cause
+foreign objects, such as keys, coins, or safety pins may be in drum or pump.
+solution
+stop the washer, check the drum and the drain filter for foreign objects.
+if noise continues after the washer is restarted, call for service.
+thumping sound
+cause
+heavy wash loads may produce a thumping sound.
+solution
+this is normal, but if the sound continues, the washer is probably out of balance. stop and redistribute wash load.
+cause
+wash load may be out of balance.
+solution
+pause the cycle and redistribute the load after the door unlocks.
+vibrating noise
+cause
+packaging materials were not removed.
+solution
+see unpacking and removing shipping material in installation.
+cause
+wash load may be unevenly distributed in the drum.
+solution
+pause the cycle and redistribute the load after the door unlocks.
+cause
+not all leveling feet are resting firmly and evenly on the floor.
+solution
+see leveling the washer in installation.
+cause
+floor is not rigid enough.
+solution
+make sure that the floor is solid and does not flex. see flooring in installation.
+squeaking noise
+cause
+packaging materials were not removed.
+solution
+see unpacking and removing shipping material in installation.
+banging noise when the washer is filling with water. (water hammer)
+cause
+plumbing in the home moves or flexes when the water valves in the washer shut off.
+solution
+water hammer is not caused by a defect in the washer. install water hammer arrestors (purchased separately at hardware or home improvement store) between the fill hose and the washer for best results.
+cause
+household water supply pressure is very high.
+solution
+adjust household water supply regulator to a lower pressure or contact a plumber.
+
+operation
+water leaking
+cause
+hoses are not connected correctly.
+solution
+check hoses and connectors for leaks, cracks, and splits.
+check and tighten hose connections.
+cause
+house drain pipes are clogged.
+solution
+the washer pumps out water very rapidly. check for water backing up out of the drain pipe during drain. if water is seen coming out of the drain, check for proper drain hose installation and check for restrictions in the drain.
+contact a plumber to repair drain pipe.
+cause
+drain hose has come out of the drain connector or is not inserted far enough.
+solution
+tie drain hose to inlet hose or standpipe to prevent it from coming out during drain.
+for smaller drain pipes, insert the drain hose into the pipe as far as the drain hose flange. for larger drain pipes, insert the drain hose into the pipe 1 - 2 inches past the flange.
+cause
+oversudsing of detergent
+solution
+oversudsing may create leaks, and may be caused by the type and amount of detergent used. he (high-efficiency) detergent is the only detergent recommended. the normal amount of detergent to use is 1/4 to 1/2 of the maximum amount recommended by the detergent manufacturer.
+always reduce the amount of detergent if the load is small or lightly soiled, or if the water is very soft.
+never use more than the maximum amount recommended by the detergent manufacturer.
+excessive sudsing
+cause
+too much detergent or incorrect detergent
+solution
+he detergents are formulated specifically for he (high-efficiency) washers and contain suds reducing agents. only use detergent with the he (high-efficiency) logo.
+for detergent quantities refer to detergent use in operation. if sudsing or detergent residue continues to be an issue, add an extra rinse.
+washer will not turn on.
+cause
+power cord is not properly plugged in.
+solution
+make sure that the plug is plugged securely into a grounded, 3-prong, 120-vac, 60 hz outlet.
+cause
+house fuse is blown, circuit breaker has tripped, or power outage has occurred.
+solution
+reset circuit breaker or replace fuse. do not increase fuse capacity. if the problem is a circuit overload, have it corrected by a qualified election.
+wash cycle time is longer than usual.
+cause
+the washer automatically adjusts the wash time for the amount of laundry, water pressure and other operating conditions.
+solution
+this is normal. the washer adjusts cycle time automatically to provide optimal results for the selected cycle. the time remaining shown in the display is only an estimate. actual time may vary.
+incomplete or no dispensing of detergent
+cause
+detergent compartments clogged from incorrect filling.
+solution
+make sure that detergent and additives are put into the correct dispenser compartments.
+for all detergent types, always make sure that the dispenser drawer is fully closed before the start of the cycle.
+cause
+too much detergent used.
+solution
+make sure that the suggested amount of detergent is used according to the manufacturer’s recommendations. you may also dilute the detergent with water to the maximum fill line on the compartment to avoid clogging. use only he (high-efficiency) detergent.
+note
+always use as little detergent as possible. he (high-efficiency) washers need very little detergent to achieve optimum results. using too much detergent will cause poor wash and rinse performance and may contribute to odors in the washer.
+cause
+insufficient water supply
+solution
+make sure that both hot and cold water faucets are turned on all the way.
+cause
+normal residue
+solution
+it is normal for a small amount of detergent to remain in the dispenser. if this residue builds up, it can interfere with normal dispensing of detergents. refer to the cleaning instructions.
+washer will not operate.
+cause
+control panel has powered off due to inactivity.
+solution
+this is normal. press the power button to turn on the washer.
+cause
+washer is unplugged.
+solution
+make sure that the power cord is plugged securely into an electrical outlet.
+cause
+water supply is turned off.
+solution
+turn both hot and cold faucets fully on.
+cause
+controls are not set properly.
+solution
+make sure that the cycle was set correctly, close the door and press the start/pause button to start the wash cycle.
+cause
+door is open.
+solution
+close the door and make sure that nothing is caught under the door preventing it from closing completely.
+cause
+circuit breaker/fuse is tripped/blown.
+solution
+check house circuit breakers/fuses. replace fuses or reset breaker. the washer should be on a dedicated branch circuit.
+cause
+start/pause button was not pressed after the cycle was set.
+solution
+press the power button then reselect the desired cycle and press the start/pause button. if the start/pause button is not pressed within a certain time, the washer will be turned off. (the time varies by model, from 4 to 60 minutes.).
+cause
+extremely low water pressure.
+solution
+check another faucet in the house to make sure that household water pressure is adequate.
+cause
+washer is too cold.
+solution
+if the washer has been exposed to temperatures below freezing for an extended period of time, allow it to warm up before pressing the power button. otherwise, the display will not come on.
+washer is not filling properly.
+cause
+filter is clogged.
+solution
+make sure that inlet filters on the fill valves are not clogged. refer to cleaning the water inlet filters in maintenance.
+cause
+inlet hoses may be kinked.
+solution
+check that inlet hoses are not kinked or clogged.
+cause
+energy efficiency
+solution
+this is a high-efficiency (he) washer. as a result, the water level settings for this washer may be different than for conventional washer.
+cause
+insufficient water supply
+solution
+make sure that both hot and cold water faucets are turned on all the way.
+cause
+washer door is open.
+solution
+close the door and make sure that nothing is caught under the door preventing it from closing completely.
+cause
+water level is too low.
+solution
+the water will not normally cover the clothes. the fill level is optimized for the wash motion to achieve the best wash performance.
+water in the washer does not drain or drains slowly.
+cause
+drain hose is kinked, pinched, or clogged.
+solution
+make sure that the drain hose is free of clogs or kinks and is not pinched behind or under the washer.
+cause
+the end of the drain hose is more than 96 inches (2.4 m) above the bottom of the washer.
+solution
+move the end of the drain hose so that it is lower than 96 inches (2.4 m).
+
+performance
+wrinkling
+cause
+washer is not unloaded promptly.
+solution
+always remove items from the washer as soon as the cycle is complete.
+cause
+washer is overloaded.
+solution
+the washer can be fully loaded, but the drum should not be tightly packed with items. the door of the washer should close easily.
+cause
+hot and cold water inlet hoses are reversed.
+solution
+hot water rinse can set wrinkles in garments. check the inlet hose connectors.
+staining
+cause
+bleach or softener dispensed too soon.
+solution
+dispenser compartment was overfilled or closed too quickly, causing the bleach or softener to dispense immediately. always measure bleach, and never use more than 1 cup.
+cause
+bleach or softener was added directly to the wash load in the drum.
+solution
+always use the dispensers to ensure that laundry products are properly dispensed at the right time in the cycle.
+cause
+washer was not unloaded promptly.
+solution
+always remove items from the washer as soon as possible after the cycle is completed.
+cause
+clothes were not properly sorted.
+solution
+always wash dark colors separately from light colors and whites to prevent discoloration.
+never wash heavily soiled items with lightly soiled items.
+poor stain removal
+cause
+proper options are not selected.
+solution
+heavier soils and tougher stains may require extra cleaning power. select the heavy soil feature to boost the cleaning power of the selected cycle.
+cause
+previously set stains.
+solution
+articles that have previously been washed may have stains that have been set. these stains may be difficult to remove and may require hand washing or pre-treating to aid in stain removal.
+musty or mildewy odor in the washer
+cause
+incorrect or too much detergent has been used.
+solution
+use only he (high-efficiency) detergent in accordance with the manufacturer’s instructions.
+cause
+inside of the drum was not cleaned properly.
+solution
+run the tub clean cycle regularly.
+
+odor
+odor
+cause
+some odor is caused by the rubber attached to the washing machine.
+solution
+this odor is normal for new rubber and will disappear after the machine has been run a few times.
+cause
+if the rubber door gasket and door seal area are not cleaned regularly, odors can occur from mold or foreign substances.
+solution
+be sure to clean the gasket and door seal regularly and check under the door seal for small items when unloading the washer.
+cause
+odors can occur if foreign substances are left in the drainage pump filter.
+solution
+be sure to clean the drainage pump filter regularly.
+cause
+odors can occur if the drainage hose is not properly installed, causing siphoning (water flowing back inside the washing machine).
+solution
+when installing the drainage hose, be sure that it doesn’t become kinked or blocked.
+cause
+using the dry function, odors can occur from lint and other laundry matter sticking to the heater. (dryer model only)
+solution
+this is not a malfunction.
+cause
+a particular odor can occur from drying wet clothes with hot air. (dryer model only)
+solution
+the odor will disappear after a short while.
+
+wi-fi
+trouble connecting appliance and smartphone to wi-fi network
+cause
+the password for the wi-fi network was entered incorrectly.
+solution
+delete your home wi-fi network and begin the connection process again.
+cause
+mobile data for your smartphone is turned on.
+solution
+turn off the mobile data on your smartphone before connecting the appliance.
+cause
+the wireless network name (ssid) is set incorrectly.
+solution
+the wireless network name (ssid) should be a combination of english letters and numbers. (do not use special characters.)
+cause
+the router frequency is not 2.4 ghz.
+solution
+only a 2.4 ghz router frequency is supported. set the wireless router to 2.4 ghz and connect the appliance to the wireless router. to check the router frequency, check with your internet service provider or the router manufacturer.
+cause
+the appliance and the router are too far apart.
+solution
+if the appliance is too far from the router, the signal may be weak and the connection may not be configured correctly. move the router closer to the appliance or purchase and install a wi-fi repeater.
+
+terms and conditions
+arbitration notice: this limited warranty contains an arbitration provision that requires you and lg electronics (“lg”) to resolve disputes by binding arbitration instead of in court, unless you choose to opt out. in arbitration, class actions and jury trials are not permitted. please see the section titled “procedure for resolving disputes” below.
+should your lg washer (“product”) fail due to a defect in materials or workmanship under normal and proper use, during the warranty period set forth below, lg will, at its option, repair or replace the product. this limited warranty is valid only to the original retail purchaser of the product (“you”) and applies only when purchased lawfully and used within the united states including u.s. territories.
+warranty period
+washer
+direct drive motor (stator or rotor)
+stainless steel drum
+parts (internal/ functional parts only) and labor: one (1) year from the date of original retail purchase
+parts only: ten (10) years from the date of original retail purchase
+you are responsible for any applicable labor cost.
+parts only: three (3) years from the date of original retail purchase
+you are responsible for any applicable labor cost.
+replacement products and parts are warranted for the remaining portion of the original warranty period or ninety (90) days, whichever is greater.
+replacement products and parts may be new, reconditioned, refurbished, or otherwise factory remanufactured.
+replaced product or part(s) will be the property of lg.
+proof of original retail purchase specifying the product model and date of purchase is required to obtain warranty service under this limited warranty. in the event of no proof of purchase, warranty start date will be ninety (90) days from the manufacture date.
+except to the extent prohibited by applicable law, any implied warranty of merchantability or fitness for a particular purpose on the product is limited in duration to the duration of the above limited warranty. under no circumstances shall lg or its u.s. distributors/dealers be liable for any indirect, incidental, consequential, special, or punitive damages, including, without limitation, lost goodwill, lost revenues or profits, work stoppage, impairment of other goods, cost of removal and reinstallation of the product, loss of use, or any other damages whether based in contract, tort, or otherwise. lg’s total liability, if any, shall not exceed the purchase price paid by you for the product.
+some states do not allow the exclusion or limitation of incidental or consequential damages or limitations on how long an implied warranty lasts, so the above exclusions or limitations may not apply to you. this limited warranty gives you specific legal rights and you may also have other rights that vary from state to state.
+
+this limited warranty does not cover:
+service trips to i) deliver, pick up, or install, or; educate how to operate the product;, ii) correct wiring;, or iii) correct unauthorized repairs or installations of the product.
+damage or failure of the product to perform during power failures and interrupted or inadequate electrical service.
+damage or failure of the product caused by leaky or broken water pipes, frozen water pipes, restricted drain lines, inadequate or interrupted water supply, or inadequate supply of air.
+damage or failure of the product resulting from operating the product in a corrosive atmosphere, in an unsuitable environment, or otherwise contrary to the product owner’s manual.
+damage or failure of the product caused by accidents, pests and vermin, lightning, wind, fire, floods, pandemics, acts of nature, or any other causes beyond the control of lg.
+damage or failure of the product resulting from misuse, abuse, improper installation, repair, or maintenance, or service not approved by lg. improper repair includes use of parts not authorized or specified by lg. improper installation or maintenance includes installation or maintenance contrary to the product’s owner’s manual.
+damage or failure of the product caused by unauthorized modification or alteration, any other property damage or failure resulting from any water leakage where the product is not properly installed in accordance with the product’s owner’s manual.
+damage or failure of the product caused by incorrect electrical current, voltage, or plumbing codes.
+damage or failure of the product caused by use of parts, accessories, components, consumable cleaning products, any other products, or service that are not authorized by lg.
+replacement of light bulbs, filters, fuses, or any other consumable parts.
+damage or failure of the product caused by transportation, storage, and/or handling, including scratches, dents, chips, and/or other damage to the finish of your product, unless such damage is reported within one (1) week of delivery.
+damage or missing items to any display, open box, refurbished, or discounted product.
+refurbished product or any product sold “as is”, “where is”, “with all faults”, or similar disclaimer.
+products with original serial numbers that have been removed, altered, or cannot be readily determined at the discretion of lg.
+increases in utility costs and additional utility expenses in any way associated with the product.
+any noises associated with normal operation.
+products used for other than normal and proper household use, including, without limitation, commercial or industrial use or, use in offices, and recreational facilities or vehicles, or as otherwise outlined in the product owner’s manual.
+costs associated with removal and/or reinstallation of your product.
+the removal and reinstallation of the product if it is installed in an inaccessible location or is not installed in accordance with the product owner’s manual.
+the cost of repair or replacement under the above excluded circumstances shall be borne by you.
+to obtain warranty service and additional information
+call 1-800-243-0000 and select the appropriate option from the menu.
+or visit our website at http://www.lg.com
+or by mail: lg electronics, p.o. box 240007, huntsville, al 35813 attn: customer service
+
+procedure for resolving disputes:
+all disputes between you and lg arising out of or relating in any way to this limited warranty or the product shall be resolved exclusively through binding arbitration, and not in a court of general jurisdiction. binding arbitration means that you and lg are each waiving the right to a jury trial and to bring or participate in a class action.
+definitions. for the purposes of this section, references to “lg” mean lg electronics u.s.a., inc., its parents, subsidiaries and affiliates, and each of their officers, directors, employees, agents, beneficiaries, predecessors in interest, successors, assigns and suppliers; references to “dispute” or “claim” shall include any dispute, claim or controversy of any kind whatsoever (whether based in contract, tort, statute, regulation, ordinance, fraud, misrepresentation or any other legal or equitable theory) arising out of or relating in any way to the sale, condition or performance of the product or this limited warranty.
+notice of dispute. in the event you intend to commence an arbitration proceeding, you must first notify lg in writing at least 30 days in advance of initiating the arbitration by sending a letter to lg at lg electronics, usa, inc. attn: legal department-arbitration 111 sylvan avenue, englewood cliffs, nj 07632. you and lg agree to engage in good faith discussions in an attempt to amicably resolve your claim. the notice must provide your name, address, and telephone number; identify the product that is the subject of the claim; and describe the nature of the claim and the relief being sought. if you and lg are unable to resolve the dispute within 30 days, either party may proceed to file a claim for arbitration.
+agreement to binding arbitration and class action waiver. upon failure to resolve the dispute during the 30 day period after sending written notice to lg, you and lg agree to resolve any claims between us only by binding arbitration on an individual basis, unless you opt out as provided below. any dispute between you and lg shall not be combined or consolidated with a dispute involving any other person’s or entity’s product or claim. more specifically, without limitation of the foregoing, any dispute between you and lg shall not under any circumstances proceed as part of a class or representative action. instead of arbitration, either party may bring an individual action in small claims court, but that small claims court action may not be brought on a class or representative basis.
+arbitration rules and procedures. to begin arbitration of a claim, either you or lg must make a written demand for arbitration. the arbitration will be administered by the american arbitration association (“aaa”) and will be conducted before a single arbitrator under the aaa’s consumer arbitration rules that are in effect at the time the arbitration is initiated (referred to as the “aaa rules”) and under the procedures set forth in this section. the aaa rules are available online at www.adr.org/consumer. send a copy of your written demand for arbitration, as well as a copy of this provision, to the aaa in the manner described in the aaa rules. you must also send a copy of your written demand to lg at lg electronics, usa, inc. attn: legal department-arbitration 111 sylvan avenue, englewood cliffs, nj 07632. if there is a conflict between the aaa rules and the rules set forth in this section, the rules set forth in this section will govern. this arbitration provision is governed by the federal arbitration act. judgment may be entered on the arbitrator’s award in any court of competent jurisdiction. all issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the arbitration provision and to the arbitrability of the dispute are for the court to decide. the arbitrator is bound by the terms of this provision.
+governing law. the law of the state of your residence shall govern this limited warranty and any disputes between us except to the extent that such law is preempted by or inconsistent with applicable federal law.
+fees/costs. you do not need to pay any fee to begin an arbitration. upon receipt of your written demand for arbitration, lg will promptly pay all arbitration filing fees to the aaa unless you seek more than $25,000 in damages, in which case the payment of these fees will be governed by the aaa rules. except as otherwise provided for herein, lg will pay all aaa filing, administration and arbitrator fees for any arbitration initiated in accordance with the aaa rules and this arbitration provision. if you prevail in the arbitration, lg will pay your attorneys’ fees and expenses as long as they are reasonable, by considering factors including, but not limited to, the purchase amount and claim amount. notwithstanding the foregoing, if applicable law allows for an award of reasonable attorneys’ fees and expenses, an arbitrator can award them to the same extent that a court would. if the arbitrator finds either the substance of your claim or the relief sought in the demand is frivolous or brought for an improper purpose (as measured by the standards set forth in federal rule of civil procedure 11(b)), then the payment of all arbitration fees will be governed by the aaa rules. in such a situation, you agree to reimburse lg for all monies previously disbursed by it that are otherwise your obligation to pay under the aaa rules. except as otherwise provided for, lg waives any rights it may have to seek attorneys’ fees and expenses from you if lg prevails in the arbitration.
+hearings and location. if your claim is for $25,000 or less, you may choose to have the arbitration conducted solely on the basis of (1) documents submitted to the arbitrator, (2) through a telephonic hearing, or (3) by an in-person hearing as established by the aaa rules. if your claim exceeds $25,000, the right to a hearing will be determined by the aaa rules. any in-person arbitration hearings will be held at a location within the federal judicial district in which you reside unless we both agree to another location or we agree to a telephonic arbitration.
+opt out. you may opt out of this dispute resolution procedure. if you opt out, neither you nor lg can require the other to participate in an arbitration proceeding. to opt out, you must send notice to lg no later than 30 calendar days from the date of the first consumer purchaser’s purchase of the product by either: (i) sending an e-mail to optout@lge.com, with the subject line: “arbitration opt out” or (ii) calling 1-800-980-2973. you must include in the opt out e-mail or provide by telephone: (a) your name and address; (b) the date on which the product was purchased; (c) the product model name or model number; and (d) the serial number (the serial number can be found (i) on the product; or (ii) online by accessing https://www.lg.com/us/support/repair-service/schedule-repair-continued and clicking on “find my model & serial number”).
+you may only opt out of the dispute resolution procedure in the manner described above (that is, by e-mail or telephone); no other form of notice will be effective to opt out of this dispute resolution procedure. opting out of this dispute resolution procedure will not affect the coverage of the limited warranty in any way, and you will continue to enjoy the full benefits of the limited warranty. if you keep this product and do not opt out, then you accept all terms and conditions of the arbitration provision described above.
+
+terms and conditions
+arbitration notice: this limited warranty contains an arbitration provision that requires you and lg to resolve disputes by binding arbitration instead of in court, unless the laws of your province or territory do not permit that, or, in other jurisdictions, if you choose to opt out. in arbitration, class actions and jury trials are not permitted. please see the section titled “procedure for resolving disputes” below.
+should your lg washer ("product") fail due to a defect in materials or workmanship under normal and proper use, during the warranty period set forth below, lg electronics canada, inc. ("lgeci") will, at its option, repair, replace or pro rate the product upon receipt of proof of the original retail purchase. this limited warranty is valid only to the original retail purchaser of the product and applies only to a product distributed, purchased from an authorized retailer and used within canada, as determined at the sole discretion of lgeci.
+warranty period (note: if the original date of purchase cannot be verified, the warranty will begin sixty (60) days from the date of manufacture)
+washer
+stainless steel drum
+direct drive motor (motor or rotor)
+one (1) year from the date of original retail purchase
+three (3) years from the date of original retail purchase
+ten (10) years from the date of original retail purchase
+parts and labor (internal/ functional parts only)
+parts only (consumer will be charged for labor)
+part only (consumer will be charged for labor)
+replacement products and parts are warranted for the remaining portion of the original warranty period or ninety (90) days, whichever is greater.
+replacement products and parts may be new, reconditioned, refurbished, or otherwise factory remanufactured, all at the sole discretion of lgeci.
+proof of original retail purchase specifying the product model and date of purchase is required to obtain warranty service under this limited warranty.
+lgeci’s sole liability is limited to the limited warranty set out above. except as expressly provided above, lgeci makes no, and hereby disclaims, all other warranties and conditions respecting the product, whether express or implied, including but not limited to, any implied warranty or condition of merchantability or fitness for a particular purpose, and no representations shall be binding on lgeci. lgeci does not authorize any person to create or assume for it any other warranty obligation or liability in connection with the product. to the extent that any warranty or condition is implied by law, it is limited to the warranty period set out above. under no circumstances shall lgeci, the manufacturer or distributor of the product, be liable for any incidental, consequential, special, direct, indirect, punitive or exemplary damages, including, without limitation, loss of goodwill, lost profits, loss of anticipated profits, lost revenue, loss of use, or any other damage, whether arising directly or indirectly from any contractual breach, fundamental breach, tort or otherwise, or from any acts or omissions. lgeci’s total liability, if any, shall not exceed the purchase price paid by you for the product.
+this limited warranty gives you specific legal rights. you may also have other rights that vary from province to province depending on applicable provincial laws. any term of this limited warranty that negates or varies any implied condition or warranty under provincial law is severable where it conflicts with such provincial law without affecting the remainder of this warranty’s terms.
+
+this limited warranty does not cover:
+service trips to i) deliver, pick up, or install or; educate on how to operate the product; ii) correct wiring or plumbing; or iii) correct unauthorized repairs or installations of the product;
+damage or failure of the product to perform during power failures and interrupted or inadequate electrical service;
+damage or failure caused by leaky or broken water pipes, frozen water pipes, restricted drain lines, inadequate or interrupted water supply or inadequate supply of air;
+damage or failure resulting from operating the product in a corrosive atmosphere or contrary to the instructions outlined in the product’s owner’s manual;
+damage or failure to the product caused by accidents, pests and vermin, lightning, wind, fire, floods, acts of god, or any other causes beyond the control of lgeci or the manufacturer;
+damage or failure resulting from misuse, abuse, improper installation, repair, or maintenance of the product. improper repair includes use of parts not authorized or specified by lgeci. improper installation or maintenance includes installation or maintenance contrary to the product’s owner’s manual;
+damage or failure caused by unauthorized modification or alteration of the product, or if used for other than the intended household purpose/use of the product, or damage or failure resulting from any water leakage due to improper installation of the product;
+damage or failure caused by incorrect electrical current, voltage or plumbing codes;
+damage or failure caused by use that is other than normal household use, including, without limitation, commercial or industrial use, including use in commercial offices or recreational facilities, or as otherwise outlined in the product’s owner’s manual;
+damage or failure caused by the use of any accessories, components or cleaning products, including, without limitation, that are not approved/authorized by lgeci;
+damage or failure caused by transportation and handling, including scratches, dents, chips and/or other damage to the finish of the product, unless such damage results from defects in materials or workmanship and is reported to lgeci within one (1) week of delivery of the products;
+damage or missing items to any display, open box, refurbished or discounted product;
+refurbished product or any product sold “as is”, “where is”, “with all faults”, or any similar disclaimer;
+products with original serial numbers that have been removed, altered or cannot be readily determined at the discretion of lgeci;
+increases in utility costs and additional utility expenses in any way associated with the product;
+replacement of light bulbs, filters, fuses or any other consumable parts;
+costs associated with removal and/or reinstallation of the product for repairs;
+noises associated with normal operation and failure to follow instructions found in the use and care and installation guides or operating the unit in an unsuitable environment will not be covered under this warranty.
+coverage for "in home" repairs, for products in-warranty, will be provided if the product is within a 150 km radius from the nearest authorized service center (asc), as determined by lg canada. if your product is located outside a 150 km radius from a asc, as determined by lg canada, it will be your responsibility to bring the product, at your sole expense, to the asc for in-warranty repair.
+all costs and expenses associated with the above excluded circumstances, listed under the heading, this limited warranty does not cover, shall be borne by the consumer.
+to obtain warranty service and additional information, please call or visit our website:
+call 1-888-542-2623 and select the appropriate option from the menu, or visit our website at http://www.lg.com
+
+procedure for resolving disputes:
+except where prohibited at law, all disputes between you and lg arising out of or relating in any way to this limited warranty or the product shall be resolved exclusively through binding arbitration, and not in a court of general jurisdiction. except where prohibited at law, you and lg both irrevocably agree to waive the right to a jury trial and to bring or participate in a class action.
+definitions. for the purposes of this section, references to “lg” mean lg electronics canada, inc., its parents, subsidiaries and affiliates, and each of their officers, directors, employees, agents, beneficiaries, predecessors in interest, successors, assigns and suppliers; references to “dispute” or “claim” shall include any dispute, claim or controversy of any kind whatsoever (whether based in contract, tort, statute, regulation, ordinance, fraud, misrepresentation or any other legal or equitable theory) arising out of or relating in any way to the sale, condition or performance of the product or this limited warranty.
+notice of dispute. in the event you intend to commence an arbitration proceeding, you must first notify lg in writing at least 30 days in advance of initiating the arbitration by sending a letter to lgeci legal team at 20 norelco drive, north york, ontario, canada m9l 2x6 (the “notice of dispute”). you and lg agree to engage in good faith discussions in an attempt to amicably resolve your claim. the notice must provide your name, address, and telephone number; identify the product that is the subject of the claim; and describe the nature of the claim and the relief being sought. if you and lg are unable to resolve the dispute within 30 days of lg’s receipt of the notice of dispute, the dispute shall be resolved by binding arbitration in accordance with the procedure set out herein. you and lg both agree that, during the arbitration proceeding, the terms (including any amount) of any settlement offer made by either you or lg will not be disclosed to the arbitrator until the arbitrator determines the dispute.
+agreement to binding arbitration and class action waiver. upon failure to resolve the dispute during the 30 day period after lg’s receipt of the notice of dispute, you and lg agree to resolve any claims between you and lg only by binding arbitration on an individual basis, unless you opt out as provided below, or you reside in a jurisdiction that prevents full application of this clause in the circumstances of the claims at issue (in which case if you are a consumer, this clause will only apply if you expressly agree to the arbitration). to the extent permitted by applicable law, any dispute between you and lg shall not be combined or consolidated with a dispute involving any other person’s or entity’s product or claim. more specifically, without limitation of the foregoing, except to the extent such a prohibition is not permitted at law, any dispute between you and lg shall not under any circumstances proceed as part of a class or representative action. instead of arbitration, either party may bring an individual action in small claims court, but that small claims court action may not be brought on a class or representative basis except to the extent this prohibition is not permitted at law in your province or territory of jurisdiction as it relates to the claims at issue between you and lg.
+arbitration rules and procedures. to begin arbitration of a claim, either you or lg must make a written demand for arbitration. the arbitration will be private and confidential, and conducted on a simplified and expedited basis before a single arbitrator chosen by the parties under the provincial or territorial commercial arbitration law and rules of the province or territory of your residence. you must also send a copy of your written demand to lg at lg electronics, canada, inc., attn: legal department- arbitration, 20 norelco drive, north york, ontario m9l 2x6. this arbitration provision is governed by your applicable provincial or territorial commercial arbitration legislation. judgment may be entered on the arbitrator’s award in any court of competent jurisdiction. all issues are for the arbitrator to decide, except that, issues relating to the scope and enforceability of the arbitration provision and to the arbitrability of the dispute are for the court to decide. the arbitrator is bound by the terms of this provision.
+governing law. the law of the province or territory of your purchase shall govern this limited warranty and any disputes between you and lg except to the extent that such law is preempted by or inconsistent with applicable federal or provincial/territorial law. should arbitration not be permitted for any claim, action, dispute or controversy between you and lg, you and lg attorn to the exclusive jurisdiction of the courts of the province or territory of your purchase for the resolution of the claim, action, dispute or controversy between you and lg.
+fees/costs. you do not need to pay any fee to begin an arbitration. upon receipt of your written demand for arbitration, lg will promptly pay all arbitration filing fees unless you seek more than $25,000 in damages, in which case the payment of these fees will be governed by the applicable arbitration rules. except as otherwise provided for herein, lg will pay all filing, administration and arbitrator fees for any arbitration initiated in accordance with the applicable arbitration rules and this arbitration provision. if you prevail in the arbitration, lg will pay your attorneys’ fees and expenses as long as they are reasonable, by considering factors including, but not limited to, the purchase amount and claim amount. notwithstanding the foregoing, if applicable law allows for an award of reasonable attorneys’ fees and expenses, an arbitrator can award them to the same extent that a court would. if the arbitrator finds either the substance of your claim or the relief sought in the demand is frivolous or brought for an improper purpose (as measured by the applicable laws), then the payment of all arbitration fees will be governed by the applicable arbitration rules. in such a situation, you agree to reimburse lg for all monies previously disbursed by it that are otherwise your obligation to pay under the applicable arbitration rules. except as otherwise provided for, lg waives any rights it may have to seek attorneys’ fees and expenses from you if lg prevails in the arbitration.
+hearings and location. if your claim is for $25,000 or less, you may choose to have the arbitration conducted solely (1) on the basis of documents submitted to the arbitrator, (2) through a telephonic hearing, or (3) by an in-person hearing as established by the applicable arbitration rules. if your claim exceeds $25,000, the right to a hearing will be determined by the applicable arbitration rules. any in-person arbitration hearings will be held at the nearest, most mutually-convenient arbitration location available within the province or territory in which you reside unless you and lg both agree to another location or agree to a telephonic arbitration.
+severability and waiver. if any portion of this limited warranty (including these arbitration procedures) is unenforceable, the remaining provisions will continue in full force and effect to the maximum extent permitted by applicable law. should lg fail to enforce strict performance of any provision of this limited warranty (including these arbitration procedures), it does not mean that lg intends to waive or has waived any provision or part of this limited warranty.
+opt out.you may opt out of this dispute resolution procedure. if you opt out, neither you nor lg can require the other to participate in an arbitration proceeding. to opt out, you must send notice to lg no later than 30 calendar days from the date of the first consumer purchaser’s purchase of the product by either (i) sending an e-mail to optout@lge.com, with the subject line: “arbitration opt out;” or (ii) calling 1-800-980-2973. you must include in the opt out e-mail or provide by telephone: (a) your name and address; (b) the date on which the product was purchased; (c) the product model name or model number; and (d) the serial number (the serial number can be found (i) on the product; or (ii) online by accessing https://www.lg.com/ca_en/support/repair-service/schedule- repair and clicking on “find my model & serial number”).
+in the event that you “opt out”, the law of the province or territory of your residence shall govern this limited warranty and any disputes between you and lg except to the extent that such law is preempted by or inconsistent with applicable federal or provincial/territorial law. should arbitration not be permitted for any claim, action, dispute or controversy between you and lg, you and lg agree to attorn to the exclusive jurisdiction of the courts of the province or territory of your residence for the resolution of the claim, action, dispute or controversy between you and lg.
+you may only opt out of the dispute resolution procedure in the manner described above (that is, by e-mail or telephone); no other form of notice will be effective to opt out of this dispute resolution procedure. opting out of this dispute resolution procedure will not affect the coverage of the limited warranty in any way, and you will continue to enjoy the full benefits of the limited warranty. if you keep this product and do not opt out, then you accept all terms and conditions of the arbitration provision described above.
+conflict of terms. in the event of a conflict or inconsistency between the terms of this limited warranty and the end user license agreement (“eula”) in regards to dispute resolution, the terms of this limited warranty shall control and govern the rights and obligations of the parties and shall take precedence over the eula.
+

@@ -1,0 +1,66 @@
+>> 1. Multi-lingual support
+
+What frequency router is supported for connecting the appliance to the wifi?
+How can I prevent children from accidentally starting wash cycle?
+What is the weight of this product
+
+
+>> 2. Context Support
+
+What is the weight of this product
+
+can you repeat?
+please explain in simple terms
+
+can you explain in detail?
+what was the frequency u mentioned earlier?
+can u convert this frequency into Hz?
+
+>> 3. Patterns of Questions
+
+== Boolean
+can we use chemicals to clean the washer?
+will hard water affect my washer?
+can i connect my washing machine with wifi?
+
+== Factoid
+What is the weight of this product
+What frequency router is supported for connecting the appliance to the wifi?
+At what voltage should we connect the washing machine?
+Which cycle is good to wash my waterproof clothings?
+which website should i visit to get more details
+
+== Descriptive
+I am getting IE Error
+how can i install the lg thinq app?
+What are the steps to lock the control panel?
+How should we wash bulky items?
+What are LG ThinQ Features
+Which cycle is good to wash my waterproof clothings?
+
+
+>> 4. Limitations
+
+
+What frequency router is supported for connecting the appliance to the wifi?
+उपकरण को वाईफ़ाई से कनेक्ट करने के लिए कौन सी फ़्रीक्वेंसी राउटर समर्थित है?
+उपकरण को वाईफ़ाई से कनेक्ट करने के लिए कौन सी फ़्रीक्वेंसी राउटर समर्थित है?
+How can I prevent children from accidentally starting wash cycle?
+부피가 큰 물건은 어떻게 세탁해야 하나요?
+what was the frequency u mentioned earlier?
+can you please tell me in GHz?
+
+
+
+
+
+
+
+http://10.221.31.22:7777/
+
+http://collab.lge.com/main/display/LGSIAITASK/LLM+Based+QA+Model+on+Private+Data
+
+
+Changes:
+1. Data Storage Way
+2. Memory part

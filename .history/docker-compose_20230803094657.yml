@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  langchain_poc_qa:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: langchain_poc_qa
+    ports:
+      - "7777:7777"
+    volumes:
+      - .:/poc_chatbot
+    extra_hosts:
+       host.docker.internal: 172.17.0.1
+    command: streamlit run langchain_poc_qa_app.py --server.port=7777 --server.address=0.0.0.0
